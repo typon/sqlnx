@@ -1,0 +1,13 @@
+{
+	"python.pythonPath": "/Users/joychen/.local/share/virtualenvs/sqlnx-m36xLyx8/bin/python",
+	"python.formatting.provider": "black",
+	"editor.formatOnSave": true,
+	"pythonTestExplorer.testFramework": "pytest",
+	"python.unitTest.pyTestEnabled": true,
+	"python.unitTest.unittestEnabled": false,
+	"python.unitTest.nosetestsEnabled": false,
+	"python.unitTest.cwd": "/Users/joychen/projects/sqlnx",
+	"python.unitTest.pyTestArgs": [
+		"--capture=no"
+	]
+}
